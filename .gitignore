@@ -1,0 +1,33 @@
+# Grandes volumes de dados e arquivos potencialmente sensíveis
+/dados/01_originais/*
+!/dados/01_originais/LEIA-ME.md
+/dados/02_banco_duckdb/*
+!/dados/02_banco_duckdb/LEIA-ME.md
+/dados/03_processados/*
+!/dados/03_processados/LEIA-ME.md
+
+# Bancos, dados brutos, diretórios temporários
+*.duckdb
+*.duckdb.wal
+*.db
+*.parquet
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+.env.*
+.DS_Store
+Thumbs.db
+.~lock.*#
+
+# Arquivos LaTeX de compilação (quando adicionados)
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz

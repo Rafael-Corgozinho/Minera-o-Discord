@@ -1,0 +1,12 @@
+Métrica,Valor
+Total de Mensagens Analisadas,13455755.0
+Mensagens com Texto,11341061.0
+Mensagens Vazias (Apenas Mídia/Anexo),2114694.0
+Média de Caracteres por Mensagem,16.57
+Mediana de Caracteres por Mensagem,9.0
+Desvio-Padrão de Caracteres,44.16
+Média de Palavras por Mensagem,2.97
+Mensagens com Links (URLs),105109.0
+Mensagens com Emojis,368525.0
+Mensagens Apenas com Emojis,171973.0
+Mensagens com Anexos,192616.0
